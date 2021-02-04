@@ -1,0 +1,5 @@
+# SMS-Spam-Detection-with-Machine-Learning
+
+I will be using the multinomial Naive Bayes implementation.
+
+This particular classifier is suitable for classification with discrete features (such as in our case, word counts for text classification). It takes in integer word counts as its input.
